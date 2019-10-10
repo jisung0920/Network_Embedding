@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 네트워크 임베딩 
+> Hanyang Univ. Jisung Jeong
+네트워크 임베딩 분야 정리, 연구를 위한 페이지입니다.
 
-You can use the [editor on GitHub](https://github.com/jisung0920/Network_Embedding.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jisung0920/Network_Embedding.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 논문 정리
+- Iterative Classification(Neville, AAAI2000)
+- Relationa Learning(Lei, KDD2009)
+- DeepWalk(Buyan, KDD2014)
+- LINE(Jian, WWW2015)
